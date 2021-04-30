@@ -1,0 +1,11 @@
+SPOTIFY-CLONE-STEPS:
+
+
+
+1.INSTALL npm install spotify-web-api-js //use to connect our project with spotify services.
+2.worked on player component
+3.visualising the data layer:
+4.used context API
+5.create player component
+6. Pull data from spotify playlist
+  
