@@ -3,7 +3,7 @@ export const authEndpoint = "https://accounts.spotify.com/authorize";
 //send user to spotify and they will do authentication
 
 const redirectUri = "https://sachinnmehra.github.io/Spotify-Clone/";
-const clientId = "4580295d8d8044e59d79604a80a9a13f";
+const clientId = "e49753a0a1a749db8c29f16ac595b7bd";
 
 const scopes = [
   "user-read-currently-playing",
